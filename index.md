@@ -11,25 +11,17 @@ New advances in robust autonomy have increased our ability to adopt robotic syst
 The goal of this workshop is to bring together researchers to discuss the following themes:
 
 1. How can we define and address robot autonomy in unstructured and uncertain environments?
-
 2. How can we tie together the categories of systems, methods, and devices to address relevant scientific questions? 
-
 3. How can we deal with the algorithmic challenges from the perspective of planning, learning, and decision-making?
 
 
 ## Topics
 
 1. Environmental monitoring, precision agriculture, disaster response
-
 2. Underground and underwater mapping, space missions and planetary robots
-
 3. Novelty, anomaly, and change detection
-
 4. Tomography and inverse models
-
 5. Sampling algorithms and strategies, e.g., opportunistic, and non-myopic sampling
-
 6. Exploration of extreme environments, system considerations, e.g., challenges in  sampling underwater and benthic environments, hot-springs, volcanoes, asteroids
-
 7. Physical sample (specimen) collection for science autonomy
 
