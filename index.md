@@ -4,18 +4,19 @@ layout: default
 
 # **Robots in the Wild: Challenges in Deploying Robust Autonomy for Robotic Exploration**
 
-## Abstract
+## **Abstract**
 
 New advances in robust autonomy have increased our ability to adopt robotic systems for exploration of unstructured and uncertain environments. Particularly, successful field tests have demonstrated the tremendous potential of deploying robots for exploration and data collection tasks in extreme environments. However, various challenges exist, originating from algorithmic limitations, as well as environmental modeling, sensing, mobility, and communication constraints. A relevant selection of robotic systems, methods, and sensing devices can overcome these challenges. 
 
 The goal of this workshop is to bring together researchers to discuss the following themes:
-
+```
 1. How can we define and address robot autonomy in unstructured and uncertain environments?
 2. How can we tie together the categories of systems, methods, and devices to address relevant scientific questions? 
 3. How can we deal with the algorithmic challenges from the perspective of planning, learning, and decision-making?
+```
 
 
-## Topics
+## **Topics**
 
 1. Environmental monitoring, precision agriculture, disaster response
 2. Underground and underwater mapping, space missions and planetary robots
@@ -26,7 +27,7 @@ The goal of this workshop is to bring together researchers to discuss the follow
 7. Physical sample (specimen) collection for science autonomy
 
 
-## Panel Discussion 
+## **Panel Discussion**
 
 * Robotics -- under-delivered or surpassed expectations in science autonomy? 
 * What is the role of AI in exploration research and big-data driven discovery?
@@ -34,7 +35,7 @@ The goal of this workshop is to bring together researchers to discuss the follow
 * Is Earth observation lagging behind consumer technology? How can roboticists help bridge the gap?
 
 
-## Speakers
+## **Speakers**
 
 1. Robin Murphy, Texas A&M University, USA: Confirmed speaker.
 2. Yogesh Girdhar, Woods Hole Oceanographic Institution, USA: Confirmed speaker.
@@ -46,7 +47,7 @@ The goal of this workshop is to bring together researchers to discuss the follow
 8. Volkan Isler, University of Minnesota, USA: Confirmed speaker.
 
 
-## Tentative schedule (1-day)
+## **Tentative schedule (1-day)**
 
 |   Time   |           Schedule           |
 |:---------|:-----------------------------|
@@ -68,7 +69,7 @@ The goal of this workshop is to bring together researchers to discuss the follow
 |          |       Closing remarks        |
 
 
-## Organizers
+## **Organizers**
 
 * Pratap Tokekar, Assistant Professor\s 
 Department of Electrical and Computer Engineering, Virginia Tech 
@@ -80,7 +81,7 @@ Department of Electrical and Computer Engineering, Virginia Tech
 School of Earth and Space Exploration, Arizona State University
 
 
-## Technical Committee
+## **Technical Committee**
 
 * Jim Bell, Professor (Planetary Science), Arizona State University 
 * Volkan Isler, Professor (Robotics), University of Minnesota 
