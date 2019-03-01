@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Robots in the Wild: Challenges in Deploying Robust Autonomy for Robotic Exploration
+# **Robots in the Wild: Challenges in Deploying Robust Autonomy for Robotic Exploration**
 
 ## Abstract
 
@@ -80,7 +80,7 @@ Department of Electrical and Computer Engineering, Virginia Tech
 School of Earth and Space Exploration, Arizona State University
 
 
-## Technical committee
+## Technical Committee
 
 * Jim Bell, Professor (Planetary Science), Arizona State University 
 * Volkan Isler, Professor (Robotics), University of Minnesota 
