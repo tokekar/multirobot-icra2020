@@ -48,24 +48,24 @@ The goal of this workshop is to bring together researchers to discuss the follow
 
 ## Tentative schedule (1-day)
 
-| Time     | Schedule                     |
+|   Time   |           Schedule           |
 |:---------|:-----------------------------|
-| 8:30     | Opening remarks              |
-| 8:45     | Invited speaker 1            |
-| 9:15     | Invited speaker 2            |
-| 9:45     | Lightning talks (5 min each) |
-| 10:15    | Coffee break                 |
-| 10:30    | Invited speaker 3            |
-| 11:00    | Invited speaker 4            |
-| 11:30    | Lunch & poster session       |
-| 13:00    | Invited speaker 5            |
-| 13:30    | Invited speaker 6            |
-| 14:00    | Lightning talks (5 min each) |
-| 14:30    | Coffee & poster session      |
-|          | Invited speaker 7            |
-|          | Invited speaker 8            |
-|          | Panel discussion             |
-|          | Closing remarks              |
+|   8:30   |       Opening remarks        |
+|   8:45   |      Invited speaker 1       |
+|   9:15   |      Invited speaker 2       |
+|   9:45   | Lightning talks (5 min each) |
+|  10:15   |         Coffee break         |
+|  10:30   |      Invited speaker 3       |
+|  11:00   |      Invited speaker 4       |
+|  11:30   |    Lunch & poster session    |
+|  13:00   |      Invited speaker 5       |
+|  13:30   |      Invited speaker 6       |
+|  14:00   | Lightning talks (5 min each) |
+|  14:30   |    Coffee & poster session   |
+|          |      Invited speaker 7       |
+|          |      Invited speaker 8       |
+|          |       Panel discussion       |
+|          |       Closing remarks        |
 
 
 ## Organizers
