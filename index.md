@@ -10,9 +10,9 @@ New advances in robust autonomy have increased our ability to adopt robotic syst
 
 The goal of this workshop is to bring together researchers to discuss the following themes:
 
-<dt>1. How can we define and address robot autonomy in unstructured and uncertain environments?</dt>
-<dt>2. How can we tie together the categories of systems, methods, and devices to address relevant scientific questions?</dt>
-<dt>3. How can we deal with the algorithmic challenges from the perspective of planning, learning, and decision-making?</dt>
+1. How can we define and address robot autonomy in unstructured and uncertain environments?
+2. How can we tie together the categories of systems, methods, and devices to address relevant scientific questions? 
+3. How can we deal with the algorithmic challenges from the perspective of planning, learning, and decision-making?
 
 
 ## **Topics**
