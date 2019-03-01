@@ -70,13 +70,13 @@ The goal of this workshop is to bring together researchers to discuss the follow
 
 ## **Organizers**
 
-* Pratap Tokekar, Assistant Professor\
+* Pratap Tokekar, Assistant Professor;
 Department of Electrical and Computer Engineering, Virginia Tech 
 
-* Yoonchang Sung, Ph.D. Candidate\
+* Yoonchang Sung, Ph.D. Candidate;
 Department of Electrical and Computer Engineering, Virginia Tech 
 
-* Jnaneshwar Das, Alberto Behar Research Professor\
+* Jnaneshwar Das, Alberto Behar Research Professor;
 School of Earth and Space Exploration, Arizona State University
 
 
