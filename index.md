@@ -25,3 +25,10 @@ The goal of this workshop is to bring together researchers to discuss the follow
 6. Exploration of extreme environments, system considerations, e.g., challenges in  sampling underwater and benthic environments, hot-springs, volcanoes, asteroids
 7. Physical sample (specimen) collection for science autonomy
 
+
+## Panel discussion 
+
+Robotics -- under-delivered or surpassed expectations in science autonomy? 
+What is the role of AI in exploration research and big-data driven discovery?
+Hype cycles, crystal ball session, what can we take from self-driving car research? 
+Is Earth observation lagging behind consumer technology? How can roboticists help bridge the gap?
