@@ -47,7 +47,7 @@ The goal of this workshop is to bring together researchers to discuss the follow
 8. Volkan Isler, University of Minnesota, USA: Confirmed speaker.
 
 
-## **Tentative schedule (1-day)**
+## **Tentative Schedule (1-day)**
 
 |   Time   |           Schedule           |
 |:---------|:-----------------------------|
