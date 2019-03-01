@@ -2,122 +2,34 @@
 layout: default
 ---
 
-// Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Robots in the Wild: Challenges in Deploying Robust Autonomy for Robotic Exploration
 
-// [Link to another page](./another-page.html).
+## Abstract
 
-// There should be whitespace between paragraphs.
+New advances in robust autonomy have increased our ability to adopt robotic systems for exploration of unstructured and uncertain environments. Particularly, successful field tests have demonstrated the tremendous potential of deploying robots for exploration and data collection tasks in extreme environments. However, various challenges exist, originating from algorithmic limitations, as well as environmental modeling, sensing, mobility, and communication constraints. A relevant selection of robotic systems, methods, and sensing devices can overcome these challenges. 
 
-// There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+The goal of this workshop is to bring together researchers to discuss the following themes:
 
-# RSS 2019 Workshop Proposal - Robots in the Wild
+1. How can we define and address robot autonomy in unstructured and uncertain environments?
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+2. How can we tie together the categories of systems, methods, and devices to address relevant scientific questions? 
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+3. How can we deal with the algorithmic challenges from the perspective of planning, learning, and decision-making?
 
 
-### Definition lists can be used with HTML syntax.
+## Topics
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+1. Environmental monitoring, precision agriculture, disaster response
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+2. Underground and underwater mapping, space missions and planetary robots
 
-```
-The final element.
-```
+3. Novelty, anomaly, and change detection
+
+4. Tomography and inverse models
+
+5. Sampling algorithms and strategies, e.g., opportunistic, and non-myopic sampling
+
+6. Exploration of extreme environments, system considerations, e.g., challenges in  sampling underwater and benthic environments, hot-springs, volcanoes, asteroids
+
+7. Physical sample (specimen) collection for science autonomy
+
