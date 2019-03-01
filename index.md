@@ -70,18 +70,18 @@ The goal of this workshop is to bring together researchers to discuss the follow
 
 ## Organizers
 
-1. Pratap Tokekar, Assistant Professor, 
+* Pratap Tokekar, Assistant Professor\s 
 Department of Electrical and Computer Engineering, Virginia Tech 
 
-2. Yoonchang Sung, Ph.D. Candidate,
+* Yoonchang Sung, Ph.D. Candidate\s
 Department of Electrical and Computer Engineering, Virginia Tech 
 
-3. Jnaneshwar Das, Alberto Behar Research Professor, 
+* Jnaneshwar Das, Alberto Behar Research Professor\s 
 School of Earth and Space Exploration, Arizona State University
 
 
 ## Technical committee
 
-1. Jim Bell, Professor (Planetary Science), Arizona State University 
-2. Volkan Isler, Professor (Robotics), University of Minnesota 
+* Jim Bell, Professor (Planetary Science), Arizona State University 
+* Volkan Isler, Professor (Robotics), University of Minnesota 
 
