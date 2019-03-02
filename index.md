@@ -8,9 +8,9 @@ layout: default
 
 New advances in robust autonomy have increased our ability to adopt robotic systems for exploration of unstructured and uncertain environments. Particularly, successful field tests have demonstrated the tremendous potential of deploying robots for exploration and data collection tasks in extreme environments. However, various challenges exist, originating from algorithmic limitations, as well as environmental modeling, sensing, mobility, and communication constraints. A relevant selection of robotic systems, methods, and sensing devices can overcome these challenges. The goal of this workshop is to bring together researchers to discuss the following themes:
 
-1. How can we define and address robot autonomy in unstructured and uncertain environments?
-2. How can we tie together the categories of systems, methods, and devices to address relevant scientific questions? 
-3. How can we deal with the algorithmic challenges from the perspective of planning, learning, and decision-making?
+1. What challenges exist at the frontiers of robotic exploration of unstructured and extreme environments?
+2. How can we tie together the categories of systems, methods, and devices to address relevant scientific questions in such environments? 
+3. How can we deal with the algorithmic challenges from the perspective of planning, learning, and decision-making for long-term autonomy of robots in extreme environments?
 
 
 ## **Topics**
