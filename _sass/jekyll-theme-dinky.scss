@@ -27,7 +27,7 @@ time, mark, audio, video {
 /* Base text styles */
 
 body {
-  padding:10px 10px 0 0;
+  padding:10px 50px 0 0;
   font-family:"Helvetica Neue", Helvetica, Arial, sans-serif;
 	font-size: 16px;
 	color: #232323;
@@ -220,7 +220,7 @@ header {
 	background-color: #9ed4e2;
 	color: #9ed4e2;
   width:170px;
-  height:1000px;
+  /* height:1000px; */
   float:left;
   position:fixed;
 	border: 1px solid #9ed4e2;
