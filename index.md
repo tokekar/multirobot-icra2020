@@ -35,13 +35,13 @@ New advances in robust autonomy have increased our ability to adopt robotic syst
 
 ## **Speakers**
 
-1. Robin Murphy, Texas A&M University, USA: Confirmed speaker.
-2. Volkan Isler, University of Minnesota, USA: Confirmed speaker.
-3. Yogesh Girdhar, Woods Hole Oceanographic Institution, USA: Confirmed speaker.
-4. Joao Sousa, University of Porto, Portugal: Confirmed speaker.
-5. Stefan B. Williams, University of Sydney, Australia: Confirmed speaker.
-6. Larry Matthies, Jet Propulsion Laboratory, USA: Tentatively confirmed speaker.
-7. Geoffrey Hollinger, Oregon State University, USA: Tentatively confirmed speaker.
+1. [**Robin Murphy**](http://faculty.cse.tamu.edu/murphy/), Texas A&M University, USA: Confirmed speaker.
+2. [**Volkan Isler**](https://www-users.cs.umn.edu/~isler/), University of Minnesota, USA: Confirmed speaker.
+3. [**Yogesh Girdhar**](http://warp.whoi.edu/), Woods Hole Oceanographic Institution, USA: Confirmed speaker.
+4. [**Joao Sousa**](https://whale.fe.up.pt/member/jo%C3%A3o-sousa), University of Porto, Portugal: Confirmed speaker.
+5. [**Stefan B**](https://sydney.edu.au/engineering/people/stefan.williams.php). Williams, University of Sydney, Australia: Confirmed speaker.
+6. [**Larry Matthies**](https://www-robotics.jpl.nasa.gov/people/Larry_Matthies/), Jet Propulsion Laboratory, USA: Tentatively confirmed speaker.
+7. [**Geoffrey Hollinger**](http://research.engr.oregonstate.edu/rdml/), Oregon State University, USA: Tentatively confirmed speaker.
 
 
 ## **Tentative Schedule (1-day)**
@@ -66,16 +66,16 @@ New advances in robust autonomy have increased our ability to adopt robotic syst
 
 ## **Organizers**
 
-* [Pratap Tokekar](http://tokekar.github.io/), Assistant Professor,
+* [**Pratap Tokekar**](http://tokekar.github.io/), Assistant Professor,
 Department of Electrical and Computer Engineering, Virginia Tech 
-* [Yoonchang Sung](https://yoonchangsung.com/), Ph.D. Candidate,
+* [**Yoonchang Sung**](https://yoonchangsung.com/), Ph.D. Candidate,
 Department of Electrical and Computer Engineering, Virginia Tech 
-* [Jnaneshwar Das](https://web.asu.edu/jdas), Alberto Behar Research Professor,
+* [**Jnaneshwar Das**](https://web.asu.edu/jdas), Alberto Behar Research Professor,
 School of Earth and Space Exploration, Arizona State University
 
 
 ## **Technical Committee**
 
-* [Jim Bell](http://jimbell.sese.asu.edu/), Professor (Planetary Science), Arizona State University 
-* [Volkan Isler](https://www-users.cs.umn.edu/~isler/), Professor (Robotics), University of Minnesota 
+* [**Jim Bell**](http://jimbell.sese.asu.edu/), Professor (Planetary Science), Arizona State University 
+* [**Volkan Isler**](https://www-users.cs.umn.edu/~isler/), Professor (Robotics), University of Minnesota 
 
