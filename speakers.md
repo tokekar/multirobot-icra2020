@@ -4,7 +4,7 @@ layout: default
 
 # **Robots in the Wild: Challenges in Deploying Robust Autonomy for Robotic Exploration**
 
-## **Speakers**
+## **Invited Speakers**
 
 1. [**Robin Murphy**](http://faculty.cse.tamu.edu/murphy/), Texas A&M University, USA: Confirmed speaker.
 2. [**Volkan Isler**](https://www-users.cs.umn.edu/~isler/), University of Minnesota, USA: Confirmed speaker.

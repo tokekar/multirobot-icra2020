@@ -14,5 +14,5 @@ layout: default
 
 ## **Technical Committee**
 
-* [**Jim Bell**](http://jimbell.sese.asu.edu/), Professor (Planetary Science), Arizona State University 
-* [**Volkan Isler**](https://www-users.cs.umn.edu/~isler/), Professor (Robotics), University of Minnesota 
+* [**Jim Bell**](http://jimbell.sese.asu.edu/), Professor (Planetary Science), Arizona State University. 
+* [**Volkan Isler**](https://www-users.cs.umn.edu/~isler/), Professor (Robotics), University of Minnesota. 
