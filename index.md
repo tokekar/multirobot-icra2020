@@ -4,6 +4,14 @@ layout: default
 
 # **Robots in the Wild: Challenges in Deploying Robust Autonomy for Robotic Exploration**
 
+## **Venue Information**
+
+This workshop will be a part of the [Robotics: Science and Systems (RSS)](http://www.roboticsconference.org/) conference which will be held at Messe Freiburg, Freiburg im Breisgau, Germany, between June 22-26, 2019.
+
+* **Workshop date**: Sunday, June 23, 2019.
+* **Location**: Messe Freiburg, Freiburg im Breisgau, Germany.
+
+
 ## **Abstract**
 
 New advances in robust autonomy have increased our ability to adopt robotic systems for exploration of unstructured and uncertain environments. Particularly, successful field tests have demonstrated the tremendous potential of deploying robots for exploration and data collection tasks in extreme environments. However, various challenges exist, originating from algorithmic limitations, as well as environmental modeling, sensing, mobility, and communication constraints. A relevant selection of robotic systems, methods, and sensing devices can overcome these challenges. The goal of this workshop is to bring together researchers to discuss the following themes:
