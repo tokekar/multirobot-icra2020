@@ -23,10 +23,10 @@ We are soliciting extended abstracts in the RSS format (2-4 pages plus reference
 
 ## **Important Dates**
 
-Extended abstract submission: ?? ??, 2019 (Anywhere on Earth).
-Notification of acceptance: May 31, 2019.
-Camera-ready paper due: ?? ??, 2019.
-Workshop day: June 23, 2019.
+* Extended abstract submission: ?? ??, 2019 (Anywhere on Earth).
+* Notification of acceptance: May 31, 2019.
+* Camera-ready paper due: ?? ??, 2019.
+* Workshop day: June 23, 2019.
 
 
 ## **Submission**
