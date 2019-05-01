@@ -6,7 +6,7 @@ layout: default
 
 ## **Venue Information**
 
-This workshop will be a part of the [Robotics: Science and Systems (RSS)](http://www.roboticsconference.org/) conference which will be held at Messe Freiburg, Freiburg im Breisgau, Germany, between June 22-26, 2019.
+This workshop will be a part of the [Robotics: Science and Systems (RSS)](http://www.roboticsconference.org/){:target="_blank"} conference which will be held at Messe Freiburg, Freiburg im Breisgau, Germany, between June 22-26, 2019.
 
 * **Workshop date**: Sunday, June 23, 2019.
 * **Location**: Messe Freiburg, Freiburg im Breisgau, Germany.
