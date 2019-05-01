@@ -2,8 +2,6 @@
 layout: default
 ---
 
-## Welcome to another page
+# **Robots in the Wild: Challenges in Deploying Robust Autonomy for Robotic Exploration**
 
-_yay_
-
-[back](./)
+## **Call for Papers**

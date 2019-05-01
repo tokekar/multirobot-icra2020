@@ -255,7 +255,8 @@ h1.header, a.header, a.name, header a{
 }
 
 a.header {
-	text-decoration: underline;
+	/* text-decoration: underline; */
+  margin-bottom: -3px;
 }
 
 a.name {
