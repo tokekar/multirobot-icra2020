@@ -6,7 +6,7 @@ layout: default
 
 ## **Call for Papers**
 
-We are soliciting extended abstracts in the RSS format (2-4 pages plus references). We encourage the submission of early ideas, late-breaking results, or open research questions that are likely to generate interesting discussions. Accepted contributions will be presented as a short spotlight talk and in a poster session. ?? particularly relevant contributions will be selected to be presented in 15 minute talks. 
+We are soliciting extended abstracts in the RSS format (4-6 pages plus references). We encourage the submission of early ideas, late-breaking results, or open research questions that are likely to generate interesting discussions. Accepted contributions will be presented as a short spotlight talk and in a poster session. ?? particularly relevant contributions will be selected to be presented in 15 minute talks. 
 
 
 ## **Topics**
@@ -31,4 +31,4 @@ We are soliciting extended abstracts in the RSS format (2-4 pages plus reference
 
 ## **Submission**
 
-Please e-mail submissions (in PDF format) to: 
+Please e-mail submissions (in PDF format) to: <rss2019ws@gmail.com>
