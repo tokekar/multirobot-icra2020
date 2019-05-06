@@ -6,7 +6,7 @@ layout: default
 
 ## **Call for Papers**
 
-We are soliciting extended abstracts in the RSS format (4-6 pages plus references). We encourage the submission of early ideas, late-breaking results, or open research questions that are likely to generate interesting discussions. Accepted contributions will be presented as a short spotlight talk<span style="color:red">**??**</span> and in a poster session<span style="color:red">**??**</span>. <span style="color:red">**??**</span> particularly relevant contributions will be selected to be presented in <span style="color:red">**??**</span> minute talks. 
+We are soliciting extended abstracts in the RSS format (4-6 pages plus references). We encourage the submission of early ideas, late-breaking results, or open research questions that are likely to generate interesting discussions. Submissions will be accepted on a rolling basis and reviewed by experts in the field. Accepted contributions will be presented as a 20 minute spotlight talk or a 5 minute lightning talk. All speakers will participate in a poster session.
 
 
 ## **Topics**
@@ -23,9 +23,9 @@ We are soliciting extended abstracts in the RSS format (4-6 pages plus reference
 
 ## **Important Dates**
 
-* Submission deadline: <span style="color:red">**??**</span>, 2019 (Anywhere on Earth).
-* Notification of acceptance (rolling basis): May 31, 2019.
-* Camera-ready paper due: <span style="color:red">**??**</span>, 2019.
+* Submission cut-off: May 31, 2019 (Anywhere on Earth).
+* Notification of acceptance (rolling basis): within two weeks of submission, until June 10, 2019.
+* Camera-ready paper due: June 15, 2019.
 * Workshop day: June 23, 2019.
 
 

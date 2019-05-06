@@ -4,6 +4,10 @@ layout: default
 
 # **Robots in the Wild: Challenges in Deploying Robust Autonomy for Robotic Exploration**
 
+## **Schedule**
+
+TBD
+
 ## **Panel Discussion**
 
 * Robotics -- under-delivered or surpassed expectations in science autonomy? 
