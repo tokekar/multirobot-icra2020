@@ -25,7 +25,7 @@ New advances in robust autonomy have increased our ability to adopt robotic syst
 
 1. System consideration for exploration of extreme environments such as underwater and benthic habitats, hot-springs, volcanoes, asteroids, and planetary surfaces.
 2. Challenges in environmental monitoring, precision agriculture, and disaster response.
-3. Multi-robot learning and coordination for environmental modelling.
+3. Multi-robot learning and coordination for environmental modeling.
 4. Underground and underwater mapping, space missions and planetary robots.
 5. Novelty, anomaly, and change detection.
 6. Decision-theoretic approaches for active sensing and physical sample (specimen) retrieval.
