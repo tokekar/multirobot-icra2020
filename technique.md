@@ -19,4 +19,5 @@ TBD
 ## **Technical Committee**
 
 * [**Jim Bell**](http://jimbell.sese.asu.edu/), Professor (Planetary Science), Arizona State University. 
-* [**Volkan Isler**](https://www-users.cs.umn.edu/~isler/), Professor (Robotics), University of Minnesota. 
+* [**Volkan Isler**](https://www-users.cs.umn.edu/~isler/), Professor (Robotics), University of Minnesota.
+* [**Amy Tabb**](https://amytabb.com/), Research Engineer (Computer Vision & Precision Agriculture), United States Department of Agriculture. 
