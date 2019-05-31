@@ -14,7 +14,7 @@ layout: default
 
 Details of talks are as follows.
 
-* ![Yogesh Girdhar](/image/yogi.jpg){height="36px"} [**Yogesh Girdhar**](http://warp.whoi.edu/), Woods Hole Oceanographic Institution, USA.
+* <img src="/image/yogi.jpg" alt="drawing" height="100"/> [**Yogesh Girdhar**](http://warp.whoi.edu/), Woods Hole Oceanographic Institution, USA.
 
 Co-Robotic Exploration in Bandwidth Constrained Environments
 
@@ -47,7 +47,7 @@ focused on developing smarter autonomous exploration robots that can
 accelerate the scientific discovery process in extreme and challenging
 environments, such as the deep sea.
 
-* ![Geoff Hollinger](/image/hollinger.jpg){height="36px"} [**Geoff Hollinger**](http://research.engr.oregonstate.edu/rdml/), Oregon State University, USA.
+* <img src="/image/hollinger.jpg" alt="drawing" height="100"/> [**Geoff Hollinger**](http://research.engr.oregonstate.edu/rdml/), Oregon State University, USA.
 
 Marine Robotics: Planning, Decision Making, and Human-Robot Learning
 
