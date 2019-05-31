@@ -14,7 +14,7 @@ layout: default
 
 Details of talks are as follows.
 
-* ![Yogesh Girdhar](/image/yogi.jpg)
+* ![Yogesh Girdhar](/image/yogi.jpg =250x) [**Yogesh Girdhar**](http://warp.whoi.edu/), Woods Hole Oceanographic Institution, USA.
 
 Co-Robotic Exploration in Bandwidth Constrained Environments
 
