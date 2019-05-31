@@ -19,18 +19,7 @@ Details of talks are as follows.
 <img src="image/yogi.jpg" alt="Yogesh Girdhar" height="250"/>
 
 **Co-Robotic Exploration in Bandwidth Constrained Environments**  
-Vision-based exploration of extreme environments with communication
-bottlenecks, such as underwater,  is challenging due to lack of
-availability of high-resolution mission state information to the human
-operator. One approach to enable co-robotic exploration in such
-conditions is to summarize visual data collected by the robot using
-semantic scene map. Our work explores the use of an unsupervised
-approach to learning a generative model of the sensor data that can
-grow with the size and complexity of the observed input, and produce
-compact scene maps that can be used for communicating the current
-mission state. This talk will discuss the generative model along with
-techniques to enable online, life-long learning of these models, and
-extensions of the work to multi-robot environments.
+Vision-based exploration of extreme environments with communication bottlenecks, such as underwater,  is challenging due to lack of availability of high-resolution mission state information to the human operator. One approach to enable co-robotic exploration in such conditions is to summarize visual data collected by the robot using semantic scene map. Our work explores the use of an unsupervised approach to learning a generative model of the sensor data that can grow with the size and complexity of the observed input, and produce compact scene maps that can be used for communicating the current mission state. This talk will discuss the generative model along with techniques to enable online, life-long learning of these models, and extensions of the work to multi-robot environments.
 
 **Bio**:
 Dr. Yogesh Girdhar is currently an Assistant Scientist at the Applied
