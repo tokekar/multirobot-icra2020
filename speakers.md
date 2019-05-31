@@ -12,8 +12,9 @@ layout: default
 4. [**Stefan B. Williams**](https://sydney.edu.au/engineering/people/stefan.williams.php), University of Sydney, Australia.
 5. [**Geoffrey Hollinger**](http://research.engr.oregonstate.edu/rdml/), Oregon State University, USA.
 
+Details of talks are as follows.
 
-* ![Yogesh Girdhar](https://github.com/robots-wild-rss/rss2019-workshop/tree/master/image/yogi.jpg)
+* ![Yogesh Girdhar](/image/yogi.jpg)
 
 Co-Robotic Exploration in Bandwidth Constrained Environments
 
