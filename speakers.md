@@ -10,7 +10,7 @@ layout: default
 2. [**Yogesh Girdhar**](http://warp.whoi.edu/), Woods Hole Oceanographic Institution, USA.
 3. [**Joao Sousa**](https://whale.fe.up.pt/member/jo%C3%A3o-sousa), University of Porto, Portugal.
 4. [**Stefan B. Williams**](https://sydney.edu.au/engineering/people/stefan.williams.php), University of Sydney, Australia.
-5. [**Geoffrey Hollinger**](http://research.engr.oregonstate.edu/rdml/), Oregon State University, USA.
+5. [**Geoff Hollinger**](http://research.engr.oregonstate.edu/rdml/), Oregon State University, USA.
 
 Details of talks are as follows.
 
@@ -47,7 +47,7 @@ focused on developing smarter autonomous exploration robots that can
 accelerate the scientific discovery process in extreme and challenging
 environments, such as the deep sea.
 
-* Geoffrey Hollinger
+* ![Geoff Hollinger](/image/hollinger.jpg){height="36px"} [**Geoff Hollinger**](http://research.engr.oregonstate.edu/rdml/), Oregon State University, USA.
 
 Marine Robotics: Planning, Decision Making, and Human-Robot Learning
 
