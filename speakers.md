@@ -14,6 +14,17 @@ layout: default
 
 Details of talks are as follows.
 
+* [**Robin Murphy**](http://faculty.cse.tamu.edu/murphy/), Texas A&M University, USA.
+
+<img src="image/robin.jpg" alt="Robin Murphy" height="250"/>
+
+**A User-Centric Perspective on Robust Autonomy in Unstructured Environments**  
+Ground, aerial, and marine vehicles are becoming increasingly common for disasters and emergency management. These platforms have typically been teleoperated rather than tasked with full autonomy. While it might be assumed that this is because autonomous capabilities are not available, the data shows that even when autonomy is available, operators have turned it off or did not need the autonomous features. This talk will discuss case studies from Fukushima Daiichi, Hurricane Harvey and other recent disasters illustrating the causes for the lack of trust in autonomy. The case studies will illustrate the ways in which off-normal events increase the demands on robots and operators, and by extension, on autonomous capabilities. 
+They will also highlight the challenges in designing systems for formative domains where work is conducted in unstructured environments. The talk will conclude with recommendations for taking a user-centric systems design approach to creating high capable and truly useful robots for unstructured environments. 
+
+**Bio**:
+Dr. Robin R. Murphy is the Raytheon Professor of Computer Science and Engineering at Texas A&M University, a founding director of the Center for Robot-Assisted Search and Rescue, and an IEEE fellow. She helped found the fields of disaster robotics and human-robot interaction, concentrating on developing human-centered AI for ground, air, and marine robots. Her work is captured in over 150 scientific publications including the award-winning book Disaster Robotics and a TED talk as well as a textbook Introduction to AI Robotics (second edition 2019). Murphy has deployed robots to over 28 disasters in five countries including the 9/11 World Trade Center, Hurricane Katrina, 2 mine disasters, Fukushima, the Syrian boat refugee crisis, Hurricane Harvey, and the Kilauea volcanic eruption. Murphy’s contributions to disaster robotics have been recognized with the ACM Eugene L. Lawler Award for Humanitarian Contributions, the AUVSI Foundation’s Al Aube Award, and the Motohiro Kisoi Award for Rescue Engineering Education. She is also the editor for the science fiction/science fact focus series for the journal Science Robotics and author of Robotics Through Science Fiction: Artificial Intelligence Explained Through Six Classic Robot Stories.
+
 * [**Yogesh Girdhar**](http://warp.whoi.edu/), Woods Hole Oceanographic Institution, USA.
 
 <img src="image/yogi.jpg" alt="Yogesh Girdhar" height="250"/>
@@ -22,20 +33,7 @@ Details of talks are as follows.
 Vision-based exploration of extreme environments with communication bottlenecks, such as underwater,  is challenging due to lack of availability of high-resolution mission state information to the human operator. One approach to enable co-robotic exploration in such conditions is to summarize visual data collected by the robot using semantic scene map. Our work explores the use of an unsupervised approach to learning a generative model of the sensor data that can grow with the size and complexity of the observed input, and produce compact scene maps that can be used for communicating the current mission state. This talk will discuss the generative model along with techniques to enable online, life-long learning of these models, and extensions of the work to multi-robot environments.
 
 **Bio**:
-Dr. Yogesh Girdhar is currently an Assistant Scientist at the Applied
-Ocean Physics & Engineering department at Woods Hole Oceanographic
-Institution (WHOI).  He received his BS and MS from Rensselaer
-Polytechnic Institute, where he was awarded the Paul A. McGloin prize
-for most outstanding academic achievement in Computer Science. He
-received his Ph.D. from McGill University in, with the thesis titled
-“Unsupervised Semantic Perception, Summarization, and Autonomous
-Exploration for Robots in Unstructured Environments”, which received
-the Honorable Mention for CIPPR Doctoral Dissertation Award. After his
-Ph.D., Yogi was a Postdoctoral Scholar and FQRTN Postdoctoral Fellow
-at WHOI. Yogesh is the PI of [WARPLab](http://warp.whoi.edu), which is
-focused on developing smarter autonomous exploration robots that can
-accelerate the scientific discovery process in extreme and challenging
-environments, such as the deep sea.
+Dr. Yogesh Girdhar is currently an Assistant Scientist at the Applied Ocean Physics & Engineering department at Woods Hole Oceanographic Institution (WHOI).  He received his BS and MS from Rensselaer Polytechnic Institute, where he was awarded the Paul A. McGloin prize for most outstanding academic achievement in Computer Science. He received his Ph.D. from McGill University in, with the thesis titled “Unsupervised Semantic Perception, Summarization, and Autonomous Exploration for Robots in Unstructured Environments”, which received the Honorable Mention for CIPPR Doctoral Dissertation Award. After his Ph.D., Yogi was a Postdoctoral Scholar and FQRTN Postdoctoral Fellow at WHOI. Yogesh is the PI of [WARPLab](http://warp.whoi.edu), which is focused on developing smarter autonomous exploration robots that can accelerate the scientific discovery process in extreme and challenging environments, such as the deep sea.
 
 * [**Geoff Hollinger**](http://research.engr.oregonstate.edu/rdml/), Oregon State University, USA.
 
