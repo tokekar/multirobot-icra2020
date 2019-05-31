@@ -18,7 +18,7 @@ Details of talks are as follows.
 
 <img src="image/yogi.jpg" alt="Yogesh Girdhar" height="250"/>
 
-**Co-Robotic Exploration in Bandwidth Constrained Environments**
+**Co-Robotic Exploration in Bandwidth Constrained Environments**  
 Vision-based exploration of extreme environments with communication
 bottlenecks, such as underwater,  is challenging due to lack of
 availability of high-resolution mission state information to the human
@@ -52,7 +52,7 @@ environments, such as the deep sea.
 
 <img src="image/hollinger.jpg" alt="Geoff Hollinger" height="150"/>
 
-**Marine Robotics: Planning, Decision Making, and Human-Robot Learning**
+**Marine Robotics: Planning, Decision Making, and Human-Robot Learning**  
 Underwater gliders, propeller-driven submersibles, and other marine robots are increasingly being tasked with gathering information (e.g., in environmental monitoring, offshore inspection, and coastal surveillance scenarios). However, in most of these scenarios, human operators must carefully plan the mission to ensure completion of the task. Strict human oversight not only makes such deployments expensive and time consuming but also makes some tasks impossible due to the requirement for heavy cognitive loads or reliable communication between the operator and the vehicle. We can mitigate these limitations by making the robotic information gatherers semi-autonomous, where the human provides high-level input to the system and the vehicle fills in the details on how to execute the plan. In this talk, I will show how a general framework that unifies information theoretic optimization and physical motion planning makes semi-autonomous information gathering feasible in marine environments. In particular, I will discuss results from a recent deployment in the Gulf of Mexico where four underwater gliders and two surface vehicles autonomously mapped an upwelling front using our framework.
  
 **Bio**:
