@@ -11,7 +11,7 @@ This workshop will be a part of the [Robotics: Science and Systems (RSS)](http:/
 * **Workshop date**: Sunday, June 23, 2019.
 * **Location**: Messe Freiburg, Freiburg im Breisgau, Germany.
 
-* **Submission cut-off (extended)**: June 7, 2019 (Anywhere on Earth).
+* **Submission cut-off (extended)**: ~~May 30, 2019~~ June 7, 2019 (Anywhere on Earth).
 * **Notification of acceptance (rolling basis)**: within two weeks of submission, until June 10, 2019.
 * **Camera-ready paper due**: June 15, 2019.
 * **Workshop day**: June 23, 2019.

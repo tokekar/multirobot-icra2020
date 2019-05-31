@@ -51,7 +51,7 @@ environments, such as the deep sea.
 
 * [**Geoff Hollinger**](http://research.engr.oregonstate.edu/rdml/), Oregon State University, USA.
 
-<img src="image/hollinger.jpg" alt="Geoff Hollinger" height="250"/>
+<img src="image/hollinger.jpg" alt="Geoff Hollinger" height="200"/>
 
 **Marine Robotics: Planning, Decision Making, and Human-Robot Learning**
 
