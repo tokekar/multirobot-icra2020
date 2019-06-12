@@ -37,7 +37,7 @@ Dr. Yogesh Girdhar is currently an Assistant Scientist at the Applied Ocean Phys
 
 * [**Jo&atilde;o Sousa**](https://whale.fe.up.pt/member/jo%C3%A3o-sousa), University of Porto, Portugal.
 
-<img src="image/joao.jpg" alt="Jo&atilde;o Sousa" height="150"/>
+<img src="image/joao.jpg" alt="Jo&atilde;o Sousa" height="200"/>
 
 **Exploring the Pacific Subtropical Front: adventures in coordinated ship-robotic surveys**  
 One of the next logical steps in oceanographic field studies concerns open-ocean coordinated ship-robotic operations. But this requires new developments, as well as new concepts of operation and experimentation at sea. This is exactly what the “Exploring the Subtropical front with multiple robots cruise” funded by the Schmidt Ocean Institute was about.  
