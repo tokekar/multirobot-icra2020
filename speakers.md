@@ -39,19 +39,18 @@ Dr. Yogesh Girdhar is currently an Assistant Scientist at the Applied Ocean Phys
 
 <img src="image/joao.jpg" alt="Jo&atilde;o Sousa" height="150"/>
 
-**Exploring the Pacific Subtropical Front: adventures in coordinated ship-robotic surveys**
-One of the next logical steps in oceanographic field studies concerns open-ocean coordinated ship-robotic operations. But this requires new developments, as well as new concepts of operation and experimentation at sea. This is exactly what the “Exploring the Subtropical front with multiple robots cruise” funded by the Schmidt Ocean Institute was about.
-
+**Exploring the Pacific Subtropical Front: adventures in coordinated ship-robotic surveys**  
+One of the next logical steps in oceanographic field studies concerns open-ocean coordinated ship-robotic operations. But this requires new developments, as well as new concepts of operation and experimentation at sea. This is exactly what the “Exploring the Subtropical front with multiple robots cruise” funded by the Schmidt Ocean Institute was about.  
 In this talk I discuss the lessons learned during this cruise and outline future challenges in coordinated ship-robotic surveys. First, the scientific and technological goals are briefly presented as a background for the discussion on coordinated ship-robotic surveys. Second, the tools and technologies used to enable coordinated surveys are discussed with special emphasis on the LSTS software tool chain. Third, key aspects of the 3-week operational deployment are described with focus on the 24/7 operations and on the spatial and temporal footprint of the coordinated operations. Finally, short term developments and future challenges are discussed in the framework of a systems breakdown structure, which is a way of structuring systems.
 
 **Bio**:
-Jo&atilde;o Tasso de Figueiredo Borges de Sousa is with the Electrical and Computer Engineering Department from Porto University in Portugal. He holds a PhD and an MSc in Electrical Engineering, both awarded by Porto University. His research interests include autonomous underwater, surface and air vehicles, planning and execution control for networked vehicle systems, optimization and control, cyber-physical systems, and applications of networked vehicle systems to the ocean sciences, security and defense.
-He is the head of the Laboratório de Sistemas e Tecnologias Subaquáticas – LSTS (Underwater Systems and Technologies Laboratory). The LSTS developed the award-winning Light Autonomous Underwater Vehicle (LAUV) and the LSTS open source software tool chain for networked vehicle systems [https://www.lsts.pt/toolchain](https://www.lsts.pt/toolchain).
+Jo&atilde;o Tasso de Figueiredo Borges de Sousa is with the Electrical and Computer Engineering Department from Porto University in Portugal. He holds a PhD and an MSc in Electrical Engineering, both awarded by Porto University. His research interests include autonomous underwater, surface and air vehicles, planning and execution control for networked vehicle systems, optimization and control, cyber-physical systems, and applications of networked vehicle systems to the ocean sciences, security and defense.  
+He is the head of the Laboratório de Sistemas e Tecnologias Subaquáticas – LSTS (Underwater Systems and Technologies Laboratory). The LSTS developed the award-winning Light Autonomous Underwater Vehicle (LAUV) and the LSTS open source software tool chain for networked vehicle systems [https://www.lsts.pt/toolchain](https://www.lsts.pt/toolchain).  
 He has been organizing the annual Rapid Environmental Picture MUS exercise in cooperation with the Portuguese Navy since 2010, and with the Centre for Maritime Research and Experimentation since 2014. He was the chair of the 2013 edition of the IFAC Navigation, Guidance and Control Workshop and of the 2018 IEEE AUV Symposium. He is a member of the Advisory Board of the Swedish Marine Robotics Center. He is in the editorial board of several scientific journals. He is a member of several NATO committees. He has authored over 400 publications, including 40 journal papers.
 
 * [**Stefan B. Williams**](https://sydney.edu.au/engineering/people/stefan.williams.php), University of Sydney, Australia.
 
-TBD
+Under construction
 
 * [**Geoff Hollinger**](http://research.engr.oregonstate.edu/rdml/), Oregon State University, USA.
 
