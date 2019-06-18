@@ -196,17 +196,21 @@ th {
   font-family: 'Arvo', Helvetica, Arial, sans-serif;
 	font-size: 16px;
 	font-weight: normal;
-  text-align: center;
+  text-align: left;
   padding: 2px;
   background: #9ed4e2;
   color: #232323;
  }
 
 td {
-  text-align: center;
+  text-align: left;
   padding: 2px;
 	background: #ccc;
  }
+
+ td:nth-child(1) {  
+  width:30%;
+}
 
 
 /* Wrapper */
