@@ -6,17 +6,17 @@ layout: default
 
 ## **Schedule**
 
-| **09:00-10:30** | <td style="text-align:center">**Session 1 (1 hr 30 min) - Session Chair:  Jo&atilde;o Sousa**</td> | 
-| 09:00-09:10 | <td style="text-align:center">Opening remarks</td> | 
+| **09:00-10:30** |  | 
+| 09:00-09:10 |  | 
 | 09:10-09:50 | **Geoff Hollinger** - Marine Robotics: Planning, Decision Making, and Human-Robot Learning | 
 | 09:50-10:30 | **Stefan Williams** - Title TBD (Webinar from Sydney) | 
-| 10:30-10:50 | <td style="text-align:center">COFFEE BREAK</td> | 
-| **10:50-12:10** | <td style="text-align:center">**Session 2 (1 hr 20 min) - Session Chair: Geoff Hollinger**</td> | 
+| 10:30-10:50 |  | 
+| **10:50-12:10** |  | 
 | 10:50-11:30 | **Jo&atilde;o Sousa** - Exploring the Pacific Subtropical Front: adventures in coordinated ship-robotic surveys | 
 | 11:30-11:50 | ORangE: Operational Range Estimation for Mobile Robot Exploration on a Single Discharge Cycle, Kshitij Tiwari, Xuesu Xiao, Ville Kyrki, and Nak Young Chong | 
 | 11:50-12:10 | Long-duration Autonomy for Open Ocean Exploration: Preliminary Results & Challenges, Alberto Dallolio, Laurent Bertino, Lukas Chrpa, Tor Arne Johansen, Martin Ludvigsen, Kjell Orvik, Lars Henrik Smedsrud, Joao Sousa k, Ingrid B. Utne, Kanna Rajan | 
-| 12:10 - 13:30 | <td style="text-align:center">LUNCH</td> | 
-| **13:30-15:10** | <td style="text-align:center">**Session 3 (1 hr 40 min) - Session Chairs: Yoonchang Sung, Sarah Bearman**</td> | 
+| 12:10 - 13:30 |  | 
+| **13:30-15:10** |  | 
 | 13:30-13:50 | Conducting robotics field trials: experiences, alternatives and best practices, Travis Manderson, Juan Camillo Gamboa Higuera, Sandeep Manjanna and Gregory Dudek | 
 | 13:50-14:30 | **Robin Murphy** - A User-Centric Perspective on Robust Autonomy in Unstructured Environments | 
 | 14:30-14:50 | Incorporating Human Input in Robotic Exploration, Katarina Popovic, Millicent Schlafly, and Todd D. Murphey | 
