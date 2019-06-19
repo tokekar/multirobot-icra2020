@@ -188,12 +188,13 @@ table {
 
 table {
   /* border-collapse: collapse; */
-  border: 1px solid #232323;
+  border: 1px solid black;
   margin-bottom: 5px;
   text-align: center;
  }
 
 th {
+  border: 1px solid black;
   font-family: 'Arvo', Helvetica, Arial, sans-serif;
 	font-size: 16px;
 	font-weight: normal;
@@ -203,9 +204,9 @@ th {
  }
 
 td {
+  border: 1px solid black;
   text-align: left;
   height:90%;
-  color: #232323;
  }
 
 td:nth-child(1) {  
