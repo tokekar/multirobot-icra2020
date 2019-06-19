@@ -13,7 +13,7 @@ This workshop will be a part of the [Robotics: Science and Systems (RSS)](http:/
 
 * **Submission cut-off (extended)**: ~~May 30, 2019~~ <span style="color:grey">June 7, 2019 (Anywhere on Earth).</span>
 * **Notification of acceptance (rolling basis)**: <span style="color:grey">within two weeks of submission, until June 10, 2019.</span>
-* **Camera-ready paper due**: June 15, 2019.
+* **Camera-ready paper due**: <span style="color:grey">June 15, 2019.</span>
 * **Workshop day**: June 23, 2019.
 
 

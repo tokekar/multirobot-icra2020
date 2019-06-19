@@ -23,9 +23,9 @@ We are soliciting extended abstracts in the RSS format (4-6 pages plus reference
 
 ## **Important Dates**
 
-* **Submission cut-off (extended)**: ~~May 30, 2019~~ June 7, 2019 (Anywhere on Earth).
-* **Notification of acceptance (rolling basis)**: within two weeks of submission, until June 10, 2019.
-* **Camera-ready paper due**: June 15, 2019.
+* **Submission cut-off (extended)**: ~~May 30, 2019~~ <span style="color:grey">June 7, 2019 (Anywhere on Earth).</span>
+* **Notification of acceptance (rolling basis)**: <span style="color:grey">within two weeks of submission, until June 10, 2019.</span>
+* **Camera-ready paper due**: <span style="color:grey">June 15, 2019.</span>
 * **Workshop day**: June 23, 2019.
 
 
