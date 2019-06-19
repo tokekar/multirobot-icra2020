@@ -184,12 +184,11 @@ pre {
 
 table {
   width:100%;
-  border-collapse: collapse;
 }
 
 table {
   /* border-collapse: collapse; */
-  border: 1px solid black;
+  border: 1px solid #232323;
   margin-bottom: 20px;
   text-align: center;
  }
@@ -199,11 +198,14 @@ th {
 	font-size: 16px;
 	font-weight: normal;
   text-align: left;
-  
+  padding: 2px;
+  background: #9ed4e2;
+  color: #232323;
  }
 
 td {
   text-align: left;
+  padding: 2px;
   height:90%;
  }
 
