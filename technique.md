@@ -15,7 +15,7 @@ layout: default
 | 10:50-11:30 | **Jo&atilde;o Sousa** - Exploring the Pacific Subtropical Front: adventures in coordinated ship-robotic surveys | 
 | 11:30-11:50 | ORangE: Operational Range Estimation for Mobile Robot Exploration on a Single Discharge Cycle, Kshitij Tiwari, Xuesu Xiao, Ville Kyrki, and Nak Young Chong | 
 | 11:50-12:10 | Long-duration Autonomy for Open Ocean Exploration: Preliminary Results & Challenges, Alberto Dallolio, Laurent Bertino, Lukas Chrpa, Tor Arne Johansen, Martin Ludvigsen, Kjell Orvik, Lars Henrik Smedsrud, Joao Sousa k, Ingrid B. Utne, and Kanna Rajan | 
-| 12:10 - 13:30 | LUNCH | 
+| 12:10-13:30 | LUNCH | 
 | **13:30-15:10** | **Session 3 (1 hr 40 min) - Session Chairs: Yoonchang Sung, Sarah Bearman** | 
 | 13:30-13:50 | Conducting robotics field trials: experiences, alternatives and best practices, Travis Manderson, Juan Camillo Gamboa Higuera, Sandeep Manjanna, and Gregory Dudek | 
 | 13:50-14:30 | **Robin Murphy** - A User-Centric Perspective on Robust Autonomy in Unstructured Environments | 
