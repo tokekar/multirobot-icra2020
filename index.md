@@ -9,7 +9,7 @@ layout: default
 This workshop will be a part of the [Robotics: Science and Systems (RSS)](http://www.roboticsconference.org/){:target="_blank"} conference which will be held at Messe Freiburg, Freiburg im Breisgau, Germany, between June 22-26, 2019.
 
 * **Workshop date**: Sunday, June 23, 2019.
-* **Location**: Building 101, Room 02 016/018, Messe Freiburg, Freiburg im Breisgau, Germany.
+* **Location**: Building 101, Room 02 016/018, Faculty of Engineering, Freiburg im Breisgau, Germany.
 
 * **Submission cut-off (extended)**: ~~May 30, 2019~~ <span style="color:grey">June 7, 2019 (Anywhere on Earth).</span>
 * **Notification of acceptance (rolling basis)**: <span style="color:grey">within two weeks of submission, until June 10, 2019.</span>
