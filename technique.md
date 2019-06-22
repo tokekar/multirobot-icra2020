@@ -19,7 +19,7 @@ layout: default
 | **13:50-15:10** | **Session 3 (1 hr 40 min) - Session Chairs: Yoonchang Sung, Sarah Bearman** | 
 | 13:50-14:30 |&nbsp;**Robin Murphy** - A User-Centric Perspective on Robust Autonomy in Unstructured Environments | 
 | 14:30-14:50 |&nbsp;"[Incorporating Human Input in Robotic Exploration](/paper/Incorporating Human Input in Robotic Exploration.pdf){:target="_blank"}," **Katarina Popovic**, **Millicent Schlafly**, and Todd D. Murphey | 
-| 14:50-15:10 |&nbsp;"[Towards Automated Monitoring of Animal Movement using Camera Networks and AI](/paper/Towards Automated Monitoring of Animal Movement using Camera Networks and AI.pdf){:target="_blank"}," **Sarah Bearman**, Zhiang Chen, Harish Anand, Scott Sprague, and Jnaneshwar Das | 
+| 14:50-15:10 |&nbsp;"[Towards Automated Monitoring of Animal Movement using Camera Networks and AI](/paper/Towards Automated Monitoring of Animal Movement using Camera Networks and AI.pdf){:target="_blank"}," **Sarah Bearman**, Zhiang Chen, Harish Anand, Scott Sprague, Jeff Gagnon, and Jnaneshwar Das | 
 
 ## **Technical Committee**
 
