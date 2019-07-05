@@ -7,19 +7,19 @@ layout: default
 ## **Schedule**
 
 | **09:00-10:10** | **Session 1 (1 hr 10 min) - Session Chair:  Jo&atilde;o Sousa** | |
-| 09:00-09:10 | Opening remarks | [Talk slides](/talk/rss2019_opening_remarks.pdf){:target="_blank"} |
-| 09:10-09:50 |&nbsp;**Geoff Hollinger** - Marine Robotics: Planning, Decision Making, and Human-Robot Learning | [Talk slides](/talk/rss2019_geoff_hollinger.pdf){:target="_blank"} |
-| 09:50-10:10 |&nbsp;"[Conducting robotics field trials: experiences, alternatives and best practices](/paper/Conducting robotics field trials: experiences, alternatives and best practices.pdf){:target="_blank"}," Travis Manderson, Juan Camillo Gamboa Higuera, Sandeep Manjanna, and **Gregory Dudek** | [Talk slides](/talk/rss2019_greg_dudek.pdf){:target="_blank"} |
-| 10:10-10:50 |&nbsp;**Stefan Williams** - Robots in the Wild: Challenges in Deploying Robust Autonomy for Robotic Exploration | [Talk slides](/talk/rss2019_stefan_williams.pdf){:target="_blank"} |
+| 09:00-09:10 | Opening remarks | [Slides](/talk/rss2019_opening_remarks.pdf){:target="_blank"} |
+| 09:10-09:50 |&nbsp;**Geoff Hollinger** - Marine Robotics: Planning, Decision Making, and Human-Robot Learning | [Slides](/talk/rss2019_geoff_hollinger.pdf){:target="_blank"} |
+| 09:50-10:10 |&nbsp;"[Conducting robotics field trials: experiences, alternatives and best practices](/paper/Conducting robotics field trials: experiences, alternatives and best practices.pdf){:target="_blank"}," Travis Manderson, Juan Camillo Gamboa Higuera, Sandeep Manjanna, and **Gregory Dudek** | [Slides](/talk/rss2019_greg_dudek.pdf){:target="_blank"} |
+| 10:10-10:50 |&nbsp;**Stefan Williams** - Robots in the Wild: Challenges in Deploying Robust Autonomy for Robotic Exploration | [Slides](/talk/rss2019_stefan_williams.pdf){:target="_blank"} |
 | **10:50-12:10** | **Session 2 (1 hr 20 min) - Session Chair: Geoff Hollinger** | |
-| 10:50-11:30 |&nbsp;**Jo&atilde;o Sousa** - Exploring the Pacific Subtropical Front: adventures in coordinated ship-robotic surveys | [Talk slides](/talk/rss2019_joao_sousa.pdf){:target="_blank"} |
-| 11:30-11:50 |&nbsp;"[ORangE: Operational Range Estimation for Mobile Robot Exploration on a Single Discharge Cycle](/paper/ORangE: Operational Range Estimation for Mobile Robot Exploration on a Single Discharge Cycle.pdf){:target="_blank"}," **Kshitij Tiwari**, Xuesu Xiao, Ville Kyrki, and Nak Young Chong | [Talk slides](/talk/rss2019_kshitij_tiwari.pdf){:target="_blank"} |
-| 11:50-12:10 |&nbsp;"[Long-duration Autonomy for Open Ocean Exploration: Preliminary Results & Challenges](/paper/Long-duration Autonomy for Open Ocean Exploration: Preliminary Results & Challenges.pdf){:target="_blank"}," **Alberto Dallolio**, Laurent Bertino, Lukas Chrpa, Tor Arne Johansen, Martin Ludvigsen, Kjell Orvik, Lars Henrik Smedsrud, Joao Sousa k, Ingrid B. Utne, and Kanna Rajan | [Talk slides](/talk/rss2019_alberto_dallolio.pdf){:target="_blank"} |
+| 10:50-11:30 |&nbsp;**Jo&atilde;o Sousa** - Exploring the Pacific Subtropical Front: adventures in coordinated ship-robotic surveys | [Slides](/talk/rss2019_joao_sousa.pdf){:target="_blank"} |
+| 11:30-11:50 |&nbsp;"[ORangE: Operational Range Estimation for Mobile Robot Exploration on a Single Discharge Cycle](/paper/ORangE: Operational Range Estimation for Mobile Robot Exploration on a Single Discharge Cycle.pdf){:target="_blank"}," **Kshitij Tiwari**, Xuesu Xiao, Ville Kyrki, and Nak Young Chong | [Slides](/talk/rss2019_kshitij_tiwari.pdf){:target="_blank"} |
+| 11:50-12:10 |&nbsp;"[Long-duration Autonomy for Open Ocean Exploration: Preliminary Results & Challenges](/paper/Long-duration Autonomy for Open Ocean Exploration: Preliminary Results & Challenges.pdf){:target="_blank"}," **Alberto Dallolio**, Laurent Bertino, Lukas Chrpa, Tor Arne Johansen, Martin Ludvigsen, Kjell Orvik, Lars Henrik Smedsrud, Joao Sousa k, Ingrid B. Utne, and Kanna Rajan | [Slides](/talk/rss2019_alberto_dallolio.pdf){:target="_blank"} |
 | 12:10-13:50 | LUNCH | |
 | **13:50-15:10** | **Session 3 (1 hr 40 min) - Session Chairs: Yoonchang Sung, Sarah Bearman** | |
-| 13:50-14:30 |&nbsp;**Robin Murphy** - A User-Centric Perspective on Robust Autonomy in Unstructured Environments | [Talk slides](/talk/rss2019_robin_murphy.pdf){:target="_blank"} |
-| 14:30-14:50 |&nbsp;"[Incorporating Human Input in Robotic Exploration](/paper/Incorporating Human Input in Robotic Exploration.pdf){:target="_blank"}," **Katarina Popovic**, **Millicent Schlafly**, and Todd D. Murphey | [Talk slides](/talk/rss2019_milli_kat.pdf){:target="_blank"} |
-| 14:50-15:10 |&nbsp;"[Towards Automated Monitoring of Animal Movement using Camera Networks and AI](/paper/Towards Automated Monitoring of Animal Movement using Camera Networks and AI.pdf){:target="_blank"}," **Sarah Bearman**, Zhiang Chen, Harish Anand, Scott Sprague, Jeff Gagnon, and Jnaneshwar Das | [Talk slides](/talk/rss2019_sarah_bearman.pdf){:target="_blank"} |
+| 13:50-14:30 |&nbsp;**Robin Murphy** - A User-Centric Perspective on Robust Autonomy in Unstructured Environments | [Slides](/talk/rss2019_robin_murphy.pdf){:target="_blank"} |
+| 14:30-14:50 |&nbsp;"[Incorporating Human Input in Robotic Exploration](/paper/Incorporating Human Input in Robotic Exploration.pdf){:target="_blank"}," **Katarina Popovic**, **Millicent Schlafly**, and Todd D. Murphey | [Slides](/talk/rss2019_milli_kat.pdf){:target="_blank"} |
+| 14:50-15:10 |&nbsp;"[Towards Automated Monitoring of Animal Movement using Camera Networks and AI](/paper/Towards Automated Monitoring of Animal Movement using Camera Networks and AI.pdf){:target="_blank"}," **Sarah Bearman**, Zhiang Chen, Harish Anand, Scott Sprague, Jeff Gagnon, and Jnaneshwar Das | [Slides](/talk/rss2019_sarah_bearman.pdf){:target="_blank"} |
 
 ## **Invited Speakers**
 
