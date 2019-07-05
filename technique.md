@@ -10,7 +10,7 @@ layout: default
 | 09:00-09:10 | Opening remarks | [Talk slides](/talk/rss2019_opening_remarks.pdf){:target="_blank"} |
 | 09:10-09:50 |&nbsp;**Geoff Hollinger** - Marine Robotics: Planning, Decision Making, and Human-Robot Learning | [Talk slides](/talk/rss2019_geoff_hollinger.pdf){:target="_blank"} |
 | 09:50-10:10 |&nbsp;"[Conducting robotics field trials: experiences, alternatives and best practices](/paper/Conducting robotics field trials: experiences, alternatives and best practices.pdf){:target="_blank"}," Travis Manderson, Juan Camillo Gamboa Higuera, Sandeep Manjanna, and **Gregory Dudek** | [Talk slides](/talk/rss2019_greg_dudek.pdf){:target="_blank"} |
-| 10:10-10:50 | COFFEE BREAK | |
+| 10:10-10:50 |&nbsp;**Stefan Williams** - Robots in the Wild: Challenges in Deploying Robust Autonomy for Robotic Exploration | [Talk slides](/talk/rss2019_stefan_williams.pdf){:target="_blank"} |
 | **10:50-12:10** | **Session 2 (1 hr 20 min) - Session Chair: Geoff Hollinger** | |
 | 10:50-11:30 |&nbsp;**Jo&atilde;o Sousa** - Exploring the Pacific Subtropical Front: adventures in coordinated ship-robotic surveys | [Talk slides](/talk/rss2019_joao_sousa.pdf){:target="_blank"} |
 | 11:30-11:50 |&nbsp;"[ORangE: Operational Range Estimation for Mobile Robot Exploration on a Single Discharge Cycle](/paper/ORangE: Operational Range Estimation for Mobile Robot Exploration on a Single Discharge Cycle.pdf){:target="_blank"}," **Kshitij Tiwari**, Xuesu Xiao, Ville Kyrki, and Nak Young Chong | [Talk slides](/talk/rss2019_kshitij_tiwari.pdf){:target="_blank"} |
@@ -56,6 +56,15 @@ Underwater gliders, propeller-driven submersibles, and other marine robots are i
  
 **Bio**:
 Geoff Hollinger is an Assistant Professor in the Collaborative Robotics and Intelligent Systems (CoRIS) Institute at Oregon State University. His current research interests are in adaptive information gathering, distributed coordination, and learning for autonomous robotic systems. He has previously held research positions at the University of Southern California, Intel Research Pittsburgh, University of Pennsylvania’s GRASP Laboratory, and NASA's Marshall Space Flight Center. He received his Ph.D. (2010) and M.S. (2007) in Robotics from Carnegie Mellon University and his B.S. in General Engineering along with his B.A. in Philosophy from Swarthmore College (2005). He is a recipient of the ONR YIP award (2017) and the NSF CAREER award (2019).
+
+* [**Stefan Williams**](http://www-personal.acfr.usyd.edu.au/stefanw/pmwiki/), University of Sydney, Australia.
+
+<img src="image/stefan.jpg" alt="Stefan Williams" height="200"/>
+
+**Robots in the Wild: Challenges in Deploying Robust Autonomy for Robotic Exploration** 
+ 
+**Bio**:
+Stefan Williams is a Professor of Marine Robotics at the University of Sydney's Australian Centre for Field Robotics. He leads the Marine Systems group within the ACFR and is the head of Australia's Integrated Marine Observing System Autonomous Underwater Vehicle Facility. His interests focus on aspects of navigation, mapping, planning and control as applied to autonomous marine systems and the interpretation of the data collected by these systems. He has always had a strong focus on fielding real systems in support of scientific applications.
 
 ## **Organizers**
 
