@@ -2,13 +2,12 @@
 layout: default
 ---
 
-# **Robots in the Wild: Challenges in Deploying Robust Autonomy for Robotic Exploration**
+# **Foundational Problems in Multi-robot Coordination under Uncertainty
+and Adversarial Attacks**
 
 ## **Organizers**
 
 * [**Pratap Tokekar**](http://tokekar.github.io/), Assistant Professor,
-Department of Electrical and Computer Engineering, Virginia Tech. 
-* [**Yoonchang Sung**](https://yoonchangsung.com/), Ph.D. Candidate,
-Department of Electrical and Computer Engineering, Virginia Tech. 
-* [**Jnaneshwar Das**](https://web.asu.edu/jdas), Alberto Behar Research Professor,
-School of Earth and Space Exploration, Arizona State University.
+Department of Computer Science, University of Maryland. 
+* [**James Paulos**](https://.com/), Postdoc, Department of Mechanical Engineering and Applied Mechanics, University of Pennsylvania.
+* [**Nilanjan Chakraborty**](https://sites.google.com/a/stonybrook.edu/nilanjan/home), Assistant Professor, Department of Mechanical Engineering, Stony Brook University.
