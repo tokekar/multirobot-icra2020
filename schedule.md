@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# **Robots in the Wild: Challenges in Deploying Robust Autonomy for Robotic Exploration**
+# **Foundational Problems in Multi-robot Coordination under Uncertainty and Adversarial Attacks**
 
 ## **Tentative Schedule (1-day)**
 
